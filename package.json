@@ -14,7 +14,7 @@
     "cheerio": "^1.0.0-rc.3",
     "dotenv": "^8.2.0",
     "mongodb": "^3.3.3",
-    "mongoose": "^5.7.9",
+    "mongoose": "^5.13.15",
     "puppeteer": "^2.0.0"
   }
 }
